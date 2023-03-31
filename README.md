@@ -10,6 +10,8 @@
 
 ---
 
+
+
 ### :woman_technologist: About Me :
 
 I am a junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania,Iasi.
@@ -20,7 +22,9 @@ I am a junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :thought_balloon: I’m looking to collaborate on .NET projects
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/alexa-alexandru/](https://www.linkedin.com/in/alexa-alexandru/)---
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
