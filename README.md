@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Romania,Iasi.
+I am a junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iasi, Romania.
 
 - :telescope: I’m working as a **.NET Developer ** and contributing to frontend and backend for building web applications.
 
