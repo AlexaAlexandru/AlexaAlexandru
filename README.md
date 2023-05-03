@@ -46,5 +46,5 @@ I am a junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexaAlexandru&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaAlexandru&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaAlexandru&layout=compact&theme=dark)](https://github.com/AlexaAlexandru/github-readme-stats)](https://camo.githubusercontent.com/)
